@@ -42,3 +42,6 @@ python -m pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple
 右击运行，可能存在unittest加载的问题。
 正确方式为 Alt+shift+F10，选择不带Unittests的那条执行，就是直接选择该python文件名执行
 
+>扫一扫，关注我
+
+![](https://ae01.alicdn.com/kf/H42a03032ffb14f939993a455440bb9634.jpg)
